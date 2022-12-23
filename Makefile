@@ -1,7 +1,5 @@
 package := $(shell basename `pwd`)
 
-LDFLAGS=-ldflags "-s -w"
-
 .PHONY: default get codetest test fmt lint vet
 
 default: fmt codetest

@@ -1,4 +1,4 @@
-module MikeAlbertFleetSolutions/go-salesforcedb
+module github.com/MikeAlbertFleetSolutions/go-salesforcedb
 
 go 1.18
 
